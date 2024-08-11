@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://sotni.ru/wp-content/uploads/2023/08/fon-ps-4-1.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100dvh;
+}
+
+.plays{
+   width: 10%;
+   
+}
+
+.menu{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   justify-content: space-between;
+    
+   
+   
+}
+.links{
+    
+    text-decoration: none;
+}
+.header{
+   
+    a{
+     text-decoration: none; 
+     color: #fff;  
+    }
+}
+.wrapper{
+    margin-top: 55px;
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    color: white;
+}
+
+h1{
+    color: #fff;
+}
+
+.img2{
+    width: 30%;
+}
+
+
+
+
+.Buy{
+    border-radius: 50px;
+    padding: 3px 15px 3px 15px;
+   background-color: black;
+   color: #fff;
+   border: none;
+}
+
+
+.more{
+    border-radius: 50px;
+    padding: 3px;
+    padding: 3px 15px 3px 15px;
+    background-color: #D08EFF;
+    color: #fff;
+    border: none;
+}
+
+.box{
+   p{
+    margin: 15px;
+   }
+}
